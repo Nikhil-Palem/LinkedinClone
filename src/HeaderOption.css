@@ -1,0 +1,15 @@
+.HeaderOption{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    margin-right:9px;
+    color:gray;
+    cursor: pointer;
+}
+.HeaderOption:hover{
+    color:black;
+}
+.HeaderOptionTitle{
+    font-size:13px;
+    font-weight: 400;
+}

@@ -1,0 +1,27 @@
+.post{
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.postHead{
+    display: flex;
+    margin-bottom: 10px;
+}
+.postInfo{
+    margin-left: 5px;
+}
+.postInfo>h3{
+    font-size: 15px;
+}
+.postInfo >p{
+    font-size:13px ;
+    color: gray;
+}
+.postBody{
+    overflow-wrap: anywhere;
+}
+.postButtons{
+display:flex;
+}
